@@ -8,26 +8,34 @@ This is a simple and interactive **Image Gallery** web application built using *
 
 ##  Features
 
-- 🖼️ Displays a grid of images
-- 🔎 Click any image to view in full size (modal view)
-- ➡️⬅️ Keyboard navigation (Arrow keys for next/previous, Esc to close)
-- 📱 Responsive layout for mobile and desktop
+-  Displays a grid of images
+- Click any image to view in full size (modal view)
+-  Keyboard navigation (Arrow keys for next/previous, Esc to close)
+- Responsive layout for mobile and desktop
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
 - **Vanilla JavaScript**
 
+## Platform Used
+
+Visual Studio Code (VS Code) – Code editor for writing and managing HTML, CSS, and JavaScript.
+
+Live Server Extension (VS Code) – For running the project locally and auto-reloading changes.
+
+
+
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/image-gallery-project.git
+   https://github.com/Varshanthini25/image-gallery-codealpha
 
 2.**Navigate to the project folder
 
@@ -36,6 +44,8 @@ This is a simple and interactive **Image Gallery** web application built using *
 Open index.html with any browser (e.g., Chrome, Firefox)
 
 ## Out put:
+
+
 
 
 
