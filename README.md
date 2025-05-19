@@ -45,6 +45,10 @@ Open index.html with any browser (e.g., Chrome, Firefox)
 
 ## Out put:
 
+![Image](https://github.com/user-attachments/assets/b3f190ca-6025-4db2-852b-08ff3116f415)
+
+
+![Image](https://github.com/user-attachments/assets/3a66c74f-426d-45c0-aa10-940cec6f6093)
 
 
 
